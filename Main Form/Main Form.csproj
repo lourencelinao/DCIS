@@ -52,42 +52,6 @@
     <Compile Include="EmployeesForm.Designer.cs">
       <DependentUpon>EmployeesForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="AddEmployeeForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AddEmployeeForm.Designer.cs">
-      <DependentUpon>AddEmployeeForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="EditEmployeeForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="EditEmployeeForm.Designer.cs">
-      <DependentUpon>EditEmployeeForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="AddItemForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AddItemForm.Designer.cs">
-      <DependentUpon>AddItemForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="EditItemForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="EditItemForm.Designer.cs">
-      <DependentUpon>EditItemForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="AddProductForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AddProductForm.Designer.cs">
-      <DependentUpon>AddProductForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="EditProductForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="EditProductForm.Designer.cs">
-      <DependentUpon>EditProductForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="ProductForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,26 +78,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AddEmployeeForm.resx">
-      <DependentUpon>AddEmployeeForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="AddProductForm.resx">
-      <DependentUpon>AddProductForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="EditEmployeeForm.resx">
-      <DependentUpon>EditEmployeeForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="EditItemForm.resx">
-      <DependentUpon>EditItemForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="EditProductForm.resx">
-      <DependentUpon>EditProductForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="EmployeesForm.resx">
       <DependentUpon>EmployeesForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="AddItemForm.resx">
-      <DependentUpon>AddItemForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ItemForm.resx">
       <DependentUpon>ItemForm.cs</DependentUpon>
