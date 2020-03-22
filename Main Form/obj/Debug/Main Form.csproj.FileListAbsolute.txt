@@ -1,0 +1,31 @@
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\Main Form.exe.config
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\Main Form.exe
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\Main Form.pdb
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main Form.csprojAssemblyReference.cache
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.Properties.Resources.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main Form.csproj.GenerateResource.cache
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main Form.csproj.CoreCompileInputs.cache
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main Form.exe
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main Form.pdb
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.LoginForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\DB.dll
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\MySql.Data.dll
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\Object Model.dll
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\Google.Protobuf.dll
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\Renci.SshNet.dll
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\DB.pdb
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\MySql.Data.xml
+C:\Users\loure\source\repos\DCIS\Main Form\bin\Debug\Object Model.pdb
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main Form.csproj.CopyComplete
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.MainForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.EmployeesForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.AddEmployeeForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.ItemForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.ProductForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.EditEmployeeForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.AddItemForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.EditItemForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.AddProductForm.resources
+C:\Users\loure\source\repos\DCIS\Main Form\obj\Debug\Main_Form.EditProductForm.resources
