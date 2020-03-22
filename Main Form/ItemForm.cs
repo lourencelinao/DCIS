@@ -27,17 +27,8 @@ namespace Main_Form
 
         }
 
-        private void addItem_MouseClick(object sender, MouseEventArgs e)
-        {
-            AddItemForm item = new AddItemForm();
-            item.ShowDialog();
-        }
-
-        private void editItem_MouseClick(object sender, MouseEventArgs e)
-        {
-            EditItemForm item = new EditItemForm();
-            item.ShowDialog();
-        }
+       
+ 
 
         private void addItem_MouseClick_1(object sender, MouseEventArgs e)
         {
